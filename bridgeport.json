@@ -1,10 +1,10 @@
 {
   "bridgeport": "0.2.0",
-  "id": "1Prq8NfyBH2mGaGG3jPcbfgH4JXj5aK9sN",
+  "id": "12f8Q4Nqa6HcuX16EVUWKNkkn43nkyx7cF",
   "name": "Hello World Protocol",
-  "description": "Create your first simple Bitcoin-powered app",
+  "description": "Pouet",
   "version": "1.0.0",
-  "repoToken":"pHXlZZTdLtFxrYK5",
+  "repoToken":"xog89uXVM0XN+AOE",
   "reader": {
     "runtime": "nodejs14",
     "directory": "./reader"
