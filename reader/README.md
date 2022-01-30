@@ -30,3 +30,8 @@ List the txid here.
 Get all txid listed here.  
 Verify these are vanity address contracts (I think it's pretty hard).  
 Search the most profitable one.
+
+#### If you are just curious and want to explore all listed order
+
+- [Query](./query)  
+And on my web browser I need to execute "selector = 0" in the console tab to make it work !
